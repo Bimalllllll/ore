@@ -1,0 +1,3 @@
+IP: golumon1525lB4p.aternos.me
+Port: 15058
+Name: Player
